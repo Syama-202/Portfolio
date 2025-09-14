@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 ## ⚡ Features
 - 🌓 **Light/Dark Mode** toggle
@@ -24,3 +25,6 @@
    git clone https://github.com/YOUR_USERNAME/portfolio.git
    cd portfolio
    ```
+=======
+# Portfolio
+>>>>>>> fb4a0a0bd4f74a281862bec6660c06a5aeba15d3
